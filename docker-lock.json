@@ -1,0 +1,114 @@
+{
+	"composefiles": {
+		"docker-compose.yaml": [
+			{
+				"name": "binhex/arch-delugevpn",
+				"tag": "latest",
+				"digest": "e05c8698c439da9eb5e8438f2ff074078771cf5bce1834ce68d5d2a9c6595e74",
+				"service": "arch-delugevpn"
+			},
+			{
+				"name": "chronograf",
+				"tag": "latest",
+				"digest": "93a37d72f8c2d5fbd6a1e520a281e10ac2dd7393dd35cc28e012d2bc1144b6e4",
+				"service": "chronograf"
+			},
+			{
+				"name": "linuxserver/duplicati",
+				"tag": "latest",
+				"digest": "a7e2b1c1ff7e4a542a9e7fbb4214a076446e8b2d52e6085b7ba9dd14bedacae4",
+				"service": "duplicati"
+			},
+			{
+				"name": "grafana/grafana",
+				"tag": "latest",
+				"digest": "1ff2070acde25450fc52613ca75519a6e74e57bb7e614210c1324002048682e4",
+				"service": "grafana"
+			},
+			{
+				"name": "influxdb",
+				"tag": "latest",
+				"digest": "061845c026471593883bbdc23a5f8bf68dfbb24d1940945c61a2813da492ba59",
+				"service": "influxdb"
+			},
+			{
+				"name": "linuxserver/jackett",
+				"tag": "latest",
+				"digest": "eb9b839c6d1812bdc977aeda45570cc6e611dc261f203b3fabcf43e84afab25d",
+				"service": "jackett"
+			},
+			{
+				"name": "linuxserver/muximux",
+				"tag": "latest",
+				"digest": "6ffb48577573e017e84a07a3f5f4325f84f3ade79d4e60e567717eb59aefa778",
+				"service": "muximux"
+			},
+			{
+				"name": "titpetric/netdata",
+				"tag": "latest",
+				"digest": "267c04f8311876267bd6a53f0ebf4fbb73a1a91a846339240a15e5e56f4ab5b4",
+				"service": "netdata"
+			},
+			{
+				"name": "linuxserver/ombi",
+				"tag": "latest",
+				"digest": "f7b333b753cba7f4a25a2bef705dbe602573eb520e0721efd250a70c470166a2",
+				"service": "ombi"
+			},
+			{
+				"name": "plexinc/pms-docker",
+				"tag": "",
+				"digest": "",
+				"service": "plex"
+			},
+			{
+				"name": "linuxserver/tautulli",
+				"tag": "latest",
+				"digest": "ed0329e411aee8ad25207e5758573edec2b27099739b75f564d68cf60878a63d",
+				"service": "plexpy"
+			},
+			{
+				"name": "portainer/portainer",
+				"tag": "latest",
+				"digest": "f8c2b0a9ca640edf508a8a0830cf1963a1e0d2fd9936a64104b3f658e120b868",
+				"service": "portainer"
+			},
+			{
+				"name": "linuxserver/radarr",
+				"tag": "latest",
+				"digest": "8773351520ad49812402026b3a07b78047b45649a7f164cdb2b06732082af879",
+				"service": "radarr"
+			},
+			{
+				"name": "linuxserver/sonarr",
+				"tag": "latest",
+				"digest": "85e018a148843879afad9433ac40b49c5dba6fd5b49b4393c3f0f9817a6c7de4",
+				"service": "sonarr"
+			},
+			{
+				"name": "phikai/speedtest",
+				"tag": "latest",
+				"digest": "90fbddf545758eba48096e90d8f12f6530d7cbce18b305181e3addf2665fae98",
+				"service": "speedtest"
+			},
+			{
+				"name": "traefik",
+				"tag": "v1.7.16",
+				"digest": "1961e48f78c27f76ddcff0956155dd62419cc4e74cd03f3a812589c4e9b423a9",
+				"service": "traefik"
+			},
+			{
+				"name": "boerderij/varken",
+				"tag": "latest",
+				"digest": "784aaf577c822a3e69c5b2792e0422896c8cdb0455e584cd5a4e46bca789848d",
+				"service": "varken"
+			},
+			{
+				"name": "v2tec/watchtower",
+				"tag": "latest",
+				"digest": "4cb6299fe87dcbfe0f13dcc5a11bf44bd9628a4dae0035fecb8cc2b88ff0fc79",
+				"service": "watchtower"
+			}
+		]
+	}
+}
