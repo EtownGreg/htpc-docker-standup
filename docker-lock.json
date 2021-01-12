@@ -34,13 +34,13 @@
 			{
 				"name": "linuxserver/jackett",
 				"tag": "latest",
-				"digest": "92c4ed76fc49b4fc727ef196595ef805861841dd3bd8f88fd3d60d5ff1731fac",
+				"digest": "b0eb90d112ce852d630a68c3d1056539b7da1158d435cfb922eb131098be1b80",
 				"service": "jackett"
 			},
 			{
 				"name": "linuxserver/muximux",
 				"tag": "latest",
-				"digest": "6ffb48577573e017e84a07a3f5f4325f84f3ade79d4e60e567717eb59aefa778",
+				"digest": "be33076c9286b58d4e71408f95182f134f7358f3941c90516943aa10a724607a",
 				"service": "muximux"
 			},
 			{
