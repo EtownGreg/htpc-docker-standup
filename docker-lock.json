@@ -10,7 +10,7 @@
 			{
 				"name": "chronograf",
 				"tag": "latest",
-				"digest": "93a37d72f8c2d5fbd6a1e520a281e10ac2dd7393dd35cc28e012d2bc1144b6e4",
+				"digest": "7bbdc7c068544068133a4961eb305f41b24f6917b5b6fb2ee856347e75cd3f20",
 				"service": "chronograf"
 			},
 			{
