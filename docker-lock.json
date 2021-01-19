@@ -52,7 +52,7 @@
 			{
 				"name": "linuxserver/ombi",
 				"tag": "latest",
-				"digest": "51ea6ed66e3cc8b912edbd9eb14b57241ce6b2210b66a1a64b30dee4a0daaf1a",
+				"digest": "4a95d68180c0e4efc86aaa0eb7386d202747efe6f26483bd9ba2044acd912df6",
 				"service": "ombi"
 			},
 			{
