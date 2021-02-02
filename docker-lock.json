@@ -28,7 +28,7 @@
 			{
 				"name": "influxdb",
 				"tag": "latest",
-				"digest": "fe53382e9fa49dd1ac079143ac5b26bfb4fb0ba32ac9b4b61c859a16943b1bff",
+				"digest": "9150147128b93c99763966626a4bafab24a1caaf98e8300ae373b0f467102f23",
 				"service": "influxdb"
 			},
 			{
