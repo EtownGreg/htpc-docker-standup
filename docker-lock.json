@@ -34,7 +34,7 @@
 			{
 				"name": "linuxserver/jackett",
 				"tag": "latest",
-				"digest": "ea7e20a0694fa4bea2fdbd0073507330234628d6b31c0dcbad4b9277f3787928",
+				"digest": "c64ac5af3f2f6d3d4198aa5910e64b083ce59bdd61dbbe8aea6b345ec77ed128",
 				"service": "jackett"
 			},
 			{
@@ -52,7 +52,7 @@
 			{
 				"name": "linuxserver/ombi",
 				"tag": "latest",
-				"digest": "8358b4c03014ca92b09e89d84d995075d25311f5b0f299284f8db76df501b542",
+				"digest": "2bff8b224048dbbd10d28120366cd53430a632257e78c4d4cd48b00f3ee54d3e",
 				"service": "ombi"
 			},
 			{
