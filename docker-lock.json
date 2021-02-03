@@ -22,19 +22,19 @@
 			{
 				"name": "grafana/grafana",
 				"tag": "latest",
-				"digest": "5f19b6c385e8bfb8e5c9ecc7cdd123a453af3cf01e7c20d20059e770f656286d",
+				"digest": "",
 				"service": "grafana"
 			},
 			{
 				"name": "influxdb",
 				"tag": "latest",
-				"digest": "02908edd69cade1f916895d6577aa0cd1712f92ce2deb7c22d73d7144b0b2282",
+				"digest": "",
 				"service": "influxdb"
 			},
 			{
 				"name": "linuxserver/jackett",
 				"tag": "latest",
-				"digest": "c64ac5af3f2f6d3d4198aa5910e64b083ce59bdd61dbbe8aea6b345ec77ed128",
+				"digest": "",
 				"service": "jackett"
 			},
 			{
@@ -94,13 +94,13 @@
 			{
 				"name": "traefik",
 				"tag": "v1.7.16",
-				"digest": "1961e48f78c27f76ddcff0956155dd62419cc4e74cd03f3a812589c4e9b423a9",
+				"digest": "",
 				"service": "traefik"
 			},
 			{
 				"name": "boerderij/varken",
 				"tag": "latest",
-				"digest": "784aaf577c822a3e69c5b2792e0422896c8cdb0455e584cd5a4e46bca789848d",
+				"digest": "",
 				"service": "varken"
 			},
 			{
