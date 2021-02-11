@@ -22,7 +22,7 @@
 			{
 				"name": "grafana/grafana",
 				"tag": "latest",
-				"digest": "5d54d8c09218f7cf8bd81a1e6904c4fd600f63178d54cbae4445a8155d408c8a",
+				"digest": "73ed24788917b1ff33a76ac64a177825173e5ce0a7f973fd0355e07426381518",
 				"service": "grafana"
 			},
 			{
