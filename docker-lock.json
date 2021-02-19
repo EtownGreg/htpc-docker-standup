@@ -64,7 +64,7 @@
 			{
 				"name": "linuxserver/tautulli",
 				"tag": "latest",
-				"digest": "c2718225be5b734556e3821e53685ab8c8ce479f313fe7f25892c9e2b0c8b9c3",
+				"digest": "4efe6bcf10f520aa4b7e832644760eb35b3b6e1d0186a17a2fd29c27e9bbb0a1",
 				"service": "plexpy"
 			},
 			{
