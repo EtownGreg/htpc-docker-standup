@@ -16,7 +16,7 @@
 			{
 				"name": "linuxserver/duplicati",
 				"tag": "latest",
-				"digest": "72e25351549ae9fd729ad794ddbcd19b76de01d298ec8fe721a632da89d1275a",
+				"digest": "da465fef8bd620d0afa9c2b992b60e94e54ec8d9b952bd2441abe9c0384d77aa",
 				"service": "duplicati"
 			},
 			{
