@@ -40,7 +40,7 @@
 			{
 				"name": "linuxserver/muximux",
 				"tag": "latest",
-				"digest": "01f0f52af5b1009a47c3116d68c6c741b97bd257243a1ac39ff9829caf08c416",
+				"digest": "951e8011ea4f5996d47aa9d4e39ecb72b094bfb6a2ab66992ec641eb50877137",
 				"service": "muximux"
 			},
 			{
